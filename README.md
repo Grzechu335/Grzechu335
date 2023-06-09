@@ -1,3 +1,11 @@
+
+<div align='center'>
+<img src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rzudq0pxo1s00ovk43q07lz1clg2z2e7yu7zwpew&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
+</div>
+
+---
+
+
 # About me 
 <p style='text-align: justify'>
 Hello there! I'm Grzegorz Skrabucha, an engineer with a background in Aeronautics and Astronautics. I also hold a master's degree in Management and Production Engineering. Despite my diverse education, I have developed a keen interest in programming, particularly in web development. JavaScript (TypeScript) is my primary programming language, and I love working with React. I'm constantly exploring new ways to create dynamic and engaging web applications. Feel free to browse through my GitHub profile to check out some of my projects. Let's connect and collaborate on exciting web development ventures!
@@ -14,6 +22,8 @@ Hello there! I'm Grzegorz Skrabucha, an engineer with a background in Aeronautic
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
 </div>
+
+
 
 
 
