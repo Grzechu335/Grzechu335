@@ -1,12 +1,12 @@
-<h1 style='text-align: center'> 💫 About Me:</h1>
+# About me 
 <p style='text-align: justify'>
 Hello there! I'm Grzegorz Skrabucha, an engineer with a background in Aeronautics and Astronautics. I also hold a master's degree in Management and Production Engineering. Despite my diverse education, I have developed a keen interest in programming, particularly in web development. JavaScript (TypeScript) is my primary programming language, and I love working with React. I'm constantly exploring new ways to create dynamic and engaging web applications. Feel free to browse through my GitHub profile to check out some of my projects. Let's connect and collaborate on exciting web development ventures!
 </p>
 
----
+
 
 # Socials
-<div style='display: flex; gap: 40px; justify-content: center'>
+<div align='center'>
     <a href="https://facebook.com/https://www.facebook.com/grzegorz.skrabucha">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
         </a>
@@ -15,11 +15,11 @@ Hello there! I'm Grzegorz Skrabucha, an engineer with a background in Aeronautic
         </a>
 </div>
 
----
+
 
 
 # 💻 Tech Stack:
-<div style='display: flex; justify-content: center; flex-wrap: wrap; gap: 10px '>
+<div>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -37,11 +37,16 @@ Hello there! I'm Grzegorz Skrabucha, an engineer with a background in Aeronautic
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt='Figma'>
 </div>
 
+
+
 # 📊 GitHub Stats:
 
-<div style='display: flex; justify-content: center; flex-direction:column; gap:10px'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Grzechu335&theme=monokai&hide_border=true' alt='Github Streak Stats'/>
+<div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Grzechu335&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact' alt='Github Top Languages Stats'/>
+    <br/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Grzechu335&theme=monokai&hide_border=true' alt='Github Streak Stats'/>
 </div>
 
 ---
+
+
