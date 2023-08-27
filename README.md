@@ -8,7 +8,7 @@
 
 # About me 
 <p style='text-align: justify'>
-Hello there! I'm Grzegorz Skrabucha, an engineer with a background in Aeronautics and Astronautics. I also hold a master's degree in Management and Production Engineering. Despite my diverse education, I have developed a keen interest in programming, particularly in web development. JavaScript (TypeScript) is my primary programming language, and I love working with React. I'm constantly exploring new ways to create dynamic and engaging web applications. Feel free to browse through my GitHub profile to check out some of my projects. Let's connect and collaborate on exciting web development ventures!
+Hello there! I'm Grzegorz Krol, an engineer with a background in Aeronautics and Astronautics. I also hold a master's degree in Management and Production Engineering. Despite my diverse education, I have developed a keen interest in programming, particularly in web development. JavaScript (TypeScript) is my primary programming language, and I love working with React. I'm constantly exploring new ways to create dynamic and engaging web applications. Feel free to browse through my GitHub profile to check out some of my projects. Let's connect and collaborate on exciting web development ventures!
 </p>
 
 
